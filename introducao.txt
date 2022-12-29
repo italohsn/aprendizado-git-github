@@ -1,0 +1,2 @@
+Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.
+Ele é essencial para todo programador pois você consegue refazer codigos e trabalhar no mesmo projeto com varias branch.
