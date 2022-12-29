@@ -1,0 +1,17 @@
+Depois de instalar seu git você tem que usar alguns comando para configuras o mesmo como:
+
+git config --global user.name "Leonardo Comelli" (configurar seu user)
+
+git config --global user.email "Ítalo@software-code.com.br" (configurar seu email)
+
+Esses são os essencias mas caso queira da para configurar outras coisas como: 
+
+git config --global core.editor vim (Setar seu editor)
+
+git config --global merge.tool vimdiff (Setar ferramenta de merge)
+
+git config --global core.excludesfile ~/.gitignore (Setar arquivos a serem ignorados)
+
+*obs: o proximo serve para listar as configurações
+
+git config --list (listar configurações)
