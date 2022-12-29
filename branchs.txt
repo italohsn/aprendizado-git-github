@@ -1,0 +1,5 @@
+As branchs são tipo o um galho: o galho principal é a branch "master" e fora dele tem outros tantos galhos menores(branchs)
+que fluem para dentro dele sem que a gente tenha que fazer atualizações ao vivo na branch principalmente
+ou até mesmo ficar toda a equipa codando em algo ao vivo e se atrapalhando.
+Então todos conseguem trabalhar no projeto sem atrapalhar o amiguinho e ainda por cima salvar varias configuraçao
+de codigos diferentes   
